@@ -17,6 +17,8 @@
  * 输出：[[1,1],[1,1]]
  */
 class Solution19 {
+
+    // 你写的也忒好了
     public void gameOfLife(int[][] board) {
         int[] neighbors = {0, 1, -1};
 
